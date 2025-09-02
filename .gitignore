@@ -1,0 +1,39 @@
+# vscode 相关
+.vscode/
+*.code-workspace
+
+# 编译生成的文件
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+*.ilk
+*.pdb
+*.idb
+
+# 调试信息文件
+*.dSYM/
+
+# 编译器临时文件
+*.tmp
+*.tmp.*
+
+# CMake 生成的文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 编译器日志文件
+*.log
+
+# 其他可能的临时文件
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
